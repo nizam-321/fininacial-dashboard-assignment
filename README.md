@@ -176,7 +176,8 @@ FINANCIAL-DASHBOARD/
 
 ### Dashboard UI
 
-![Dashboard UI](/Screenshot.png)
+![Dashboard UI](./public/Screenshot%201.png)
+
 
 
 ---
