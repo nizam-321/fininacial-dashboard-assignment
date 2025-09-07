@@ -1,26 +1,3 @@
-// 'use client'
-// import { useRef } from "react";
-// import Navbar from "./components/layout/Navbar";
-// import RedNavMenu from "./components/layout/RedNavMenu";
-// import AumAndSip from "./components/Home/AumAndSip";
-// import FinancialOverview from "./components/Home/FinancialOverview";
-// import AllCharts from "./components/Home/AllCharts";
-
-
-// export default function Home() {
-//   return (
-//     <>
-//       <Navbar />
-//       <RedNavMenu />
-//       <AumAndSip  />
-//       <FinancialOverview  />
-//       <AllCharts />
-      
-//     </>
-//   );
-// }
-
-
 
 'use client'
 import Navbar from "./components/layout/Navbar";

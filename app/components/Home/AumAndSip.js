@@ -1,32 +1,3 @@
-// "use client";
-// import React from "react";
-// import FinancialCard from "../cards/FinancialCard";
-// import data from "@/data/data.json"; 
-
-// const AumAndSip = () => {
-//   return (
-    
-//       <div className="flex gap-4 mt-4">
-//         {data.map((item, index) => (
-//           <FinancialCard
-//             key={index}
-//             label={item.label}
-//             title={item.title}
-//             unit={item.unit}
-//             growth={item.growth}
-//             trendLinkText={item.trendLinkText}
-//           />
-//         ))}
-//       </div>
-    
-//   );
-// };
-
-// export default AumAndSip;
-
-
-
-
 
 "use client";
 

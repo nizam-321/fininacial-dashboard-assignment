@@ -1,23 +1,4 @@
-// import React from 'react'
-// import ClientsBubbleChart from '../Charts/ClientsBubbleChart'
-// import MonthlyMISChart from '../Charts/MonthlyMISSChart'
-// import SipBusinessChart from '../Charts/SipBusinessChart'
-
-// const AllCharts = () => {
-//   return (
-//     <>
-//     <div className='flex justify-between gap-4 mt-6'>
-//       <ClientsBubbleChart />
-//       <SipBusinessChart />
-//       <MonthlyMISChart />
-//     </div>
-//     </>
-//   )
-// }
-
-// export default AllCharts
-
-
+"use client"
 import React from 'react'
 import ClientsBubbleChart from '../Charts/ClientsBubbleChart'
 import MonthlyMISChart from '../Charts/MonthlyMISSChart'

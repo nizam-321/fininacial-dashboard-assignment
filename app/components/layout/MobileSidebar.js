@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { FiUser } from "react-icons/fi";
 import { IoIosArrowForward } from "react-icons/io";

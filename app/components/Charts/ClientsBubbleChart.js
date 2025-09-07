@@ -1,4 +1,3 @@
-"use client";
 import {
   Chart as ChartJS, Tooltip, Legend, PointElement, LinearScale } from "chart.js";
 import ChartDataLabels from "chartjs-plugin-datalabels";

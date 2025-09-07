@@ -1,4 +1,3 @@
-"use client";
 import React from "react";
 import jsPDF from "jspdf";
 import { toPng } from "html-to-image";
