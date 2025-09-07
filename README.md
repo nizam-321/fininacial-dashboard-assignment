@@ -176,7 +176,7 @@ FINANCIAL-DASHBOARD/
 
 ### Dashboard UI
 
-![Dashboard UI](./public/Screenshot%201.png)
+![Dashboard UI]([./public/Screenshot%201.png](https://github.com/nizam-321/fininacial-dashboard-assignment/blob/main/public/Screenshot.png))
 
 
 
