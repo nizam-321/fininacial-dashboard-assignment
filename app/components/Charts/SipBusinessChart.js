@@ -1,9 +1,9 @@
 import React from 'react';
 import ViewReportButton from '../reusable/ViewReportButton';
-import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, LineElement, PointElement, Legend, Tooltip } from 'chart.js';
+import { Chart as ChartJS, CategoryScale, LinearScale, BarController, BarElement, LineElement, PointElement, Legend, Tooltip } from 'chart.js';
 import { Chart } from 'react-chartjs-2';
 
-ChartJS.register( CategoryScale, LinearScale, BarElement, LineElement, PointElement, Tooltip, Legend );
+ChartJS.register( CategoryScale, LinearScale, BarController, BarElement, LineElement, PointElement, Tooltip, Legend );
 
 const SIPBusinessChart = () => {
   const data = {
