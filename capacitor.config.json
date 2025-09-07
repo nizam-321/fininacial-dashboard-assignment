@@ -1,0 +1,6 @@
+{
+  "appId": "com.financial.dashboard",
+  "appName": "financial-dashboard",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}

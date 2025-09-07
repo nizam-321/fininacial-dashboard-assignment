@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Poppins:wght@400;600;700&display=swap');
+
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
+  --background: #f9fafbd7;
   --foreground: #171717;
 }
 
@@ -22,5 +24,28 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+.no-borders {
+  outline: none !important;
+  border: none !important;
+}
+
+
+/* Hide all scrollbars globally across the app */
+* {
+  scrollbar-width: none;             /* Firefox */
+  -ms-overflow-style: none;         /* IE and Edge */
+}
+
+*::-webkit-scrollbar {
+  display: none;                    /* Chrome, Safari, Opera */
 }
